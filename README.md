@@ -1,4 +1,4 @@
-# latihan1
+# DIETTO
 
 > A Vue.js project
 
